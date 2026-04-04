@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Charlie%20James%20Abejo&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Charlie%20James%20Abejo&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps&descSize=16&descColor=d1d5db&descAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -22,7 +22,7 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Architecting+Cloud-Native+Solutions;Crafting+Modern+Web+%26+Mobile+Apps;5%2B+Years+of+Engineering+Excellence" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Systems;Architecting+Cloud-Native+Solutions;Crafting+Modern+Web+%26+Mobile+Apps;5%2B+Years+of+Engineering+Excellence" alt="Typing SVG" />
     </a>
 </p>
 
@@ -43,13 +43,11 @@ I specialize in designing **high-performance backend architectures** using .NET 
 
 <br clear="both">
 
+---
+
 <br>
 
 <!-- WHAT I DO SECTION -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-</p>
-
 ### <p align="center">What I Bring to the Table</p>
 
 <table align="center">
@@ -74,11 +72,11 @@ I specialize in designing **high-performance backend architectures** using .NET 
 
 <br>
 
-<!-- TECH STACK -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-</p>
+---
 
+<br>
+
+<!-- TECH STACK -->
 ### <p align="center">Tech Stack</p>
 
 <p align="center"><b>Languages</b></p>
@@ -108,15 +106,15 @@ I specialize in designing **high-performance backend architectures** using .NET 
 
 <br>
 
-<!-- WORKSPACE SECTION -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-</p>
+---
 
+<br>
+
+<!-- WORKSPACE SECTION -->
 ### <p align="center">Where the Magic Happens</p>
 
 <p align="center">
-    <img src="im1.jpeg" width="45%"  alt="Workspace"/>
+    <img src="im1.jpeg" width="45%" alt="Workspace"/>
     &nbsp;&nbsp;
     <img src="im.jpeg" width="45%" alt="Deep focus"/>
 </p>
@@ -127,11 +125,11 @@ I specialize in designing **high-performance backend architectures** using .NET 
 
 <br>
 
-<!-- GITHUB STATS -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-</p>
+---
 
+<br>
+
+<!-- GITHUB STATS -->
 ### <p align="center">GitHub Stats</p>
 
 <p align="center">
@@ -150,18 +148,22 @@ I specialize in designing **high-performance backend architectures** using .NET 
 
 <br>
 
-<!-- PROFILE VIEWS -->
+<!-- PROFILE VIEWS & PRIVATE REPOS NOTICE -->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=CharlieJamesGwapo&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
+<p align="center">
+    <b>* Due to contract restrictions, most repositories are set to private *</b>
+</p>
+
+<br>
+
+---
+
 <br>
 
 <!-- CONTACT -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-</p>
-
 ### <p align="center">Let's Connect</p>
 
 <p align="center">
@@ -182,5 +184,5 @@ I specialize in designing **high-performance backend architectures** using .NET 
 
 <!-- FOOTER -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%"/>
 </p>
