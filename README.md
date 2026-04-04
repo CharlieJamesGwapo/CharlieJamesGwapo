@@ -11,19 +11,21 @@
     </a>
 </div>
 
-<h2 align="center">Hi, I'm Charlie James Abejo</h2>
-<h3 align="center">
-    Full Stack Developer | Backend Engineer | Cloud & DevOps with 5+ years of experience building secure backend systems, APIs, and web/mobile applications using .NET (C#), Go, Node.js, PHP, Python, and modern frontend frameworks such as React.js, Next.js, Vue.js, Angular. Experienced in cloud deployment, CI/CD pipelines, containerization, and database management. Based in Cagayan De Oro City, Philippines.
+<h2 align="center">Hi 👋, I'm Charlie James Abejo</h2>
+
+<p align="center">
+    <b>Full Stack Developer | Backend Engineer | Cloud & DevOps.</b> A very experienced full-stack developer with 5+ years of experience building secure backend systems, APIs, and web/mobile applications using .NET (C#), Go, Node.js, PHP, Python, and modern frontend frameworks such as React.js, Next.js, Vue.js, Angular. Experienced in cloud deployment, CI/CD pipelines, containerization, and database management. Based in Cagayan De Oro City, Philippines.
+</p>
 
 <hr>
-* DUE TO CONTRACT RESTRICTIONS, MOST OF REPOSITORIES ARE SET TO PRIVATE *
 
-</h3>
+<h3 align="center">* DUE TO CONTRACT RESTRICTIONS, MOST OF REPOSITORIES ARE SET TO PRIVATE *</h3>
 
 <br>
 
 <!-- STACK EXPERIENCE -->
-<h2 align="center">Stack Experience</h2>
+<h2 align="center">🌟 Stack Experience 💯</h2>
+<hr>
 
 <br>
 <p align="center">
@@ -32,34 +34,45 @@
     </a>
 </p>
 
+<br>
+
 <!-- GITHUB STATS -->
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
+<hr>
+
 <p align="center">
-    <img style="height: auto !important;" alt="Top Langs" src="https://github-readme-stats-six-sandy.vercel.app/api/top-langs/?username=CharlieJamesGwapo&layout=compact&theme=vision-friendly-dark&langs_count=100"/><br>
-    <img style="height: auto !important;" alt="Streak Stats" src="https://github-readme-streak-stats-tan-nine.vercel.app/?user=CharlieJamesGwapo&theme=vision-friendly-dark&hide_border=false&date_format=%5BY%20%5DM%20j"/>
-    <img width="120%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CharlieJamesGwapo&theme=merko"/>
+    <img alt="Top Langs" src="https://github-readme-stats-six-sandy.vercel.app/api/top-langs/?username=CharlieJamesGwapo&layout=compact&theme=vision-friendly-dark&langs_count=100"/><br><br>
+    <img alt="Streak Stats" src="https://github-readme-streak-stats-tan-nine.vercel.app/?user=CharlieJamesGwapo&theme=vision-friendly-dark&hide_border=false&date_format=%5BY%20%5DM%20j"/><br><br>
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CharlieJamesGwapo&theme=merko"/>
 </p>
+
 <br>
 
 <!-- PERSONAL SPACE -->
-<h1 align="center">PERSONAL SPACE</h1>
+<h2 align="center">🏠 Personal Space</h2>
 <hr>
 
 <br>
 
-- A Full-Stack Developer, building modern web & mobile applications
-- 5+ years of experience in backend systems, APIs, and cloud deployment
-- Based in Cagayan De Oro City, Northern Mindanao, Philippines
-- Dean's Lister at MOIST (Ranked 2) — BS Information Technology
-- Open to remote work and freelance opportunities
+<p align="center">
+    A Full-Stack Developer, building modern web & mobile applications<br>
+    5+ years of experience in backend systems, APIs, and cloud deployment<br>
+    Based in Cagayan De Oro City, Northern Mindanao, Philippines<br>
+    Dean's Lister (Ranked 2) — BS Information Technology<br>
+    Open to remote work and freelance opportunities
+</p>
 
 <br>
 
-- [Facebook Account](https://www.facebook.com/Retrigadz)
-- [LinkedIn](https://www.linkedin.com/in/charlie-james-abejo-2b625a3a5/)
-- [Instagram](https://www.instagram.com/charlieeputhhhzz/)
-- [Portfolio](https://portfoliobboy.vercel.app/)
+<p align="center">
+    <a href="https://www.facebook.com/Retrigadz">Facebook</a> •
+    <a href="https://www.linkedin.com/in/charlie-james-abejo-2b625a3a5/">LinkedIn</a> •
+    <a href="https://www.instagram.com/charlieeputhhhzz/">Instagram</a> •
+    <a href="https://portfoliobboy.vercel.app/">Portfolio</a>
+</p>
 
 <br>
 
-<sub> *"Code is not just logic — it's the bridge between ideas and reality."* — Charlie James Abejo </sub>
+<p align="center">
+    <sub><i>"Code is not just logic — it's the bridge between ideas and reality."</i> — Charlie James Abejo</sub>
+</p>
