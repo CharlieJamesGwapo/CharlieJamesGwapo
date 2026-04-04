@@ -1,9 +1,6 @@
-<!-- HEADER BANNER -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Charlie%20James%20Abejo&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps&descSize=16&descColor=d1d5db&descAlignY=55&animation=fadeIn" width="100%"/>
-</p>
+<h1 align="center">Charlie James Abejo</h1>
+<h3 align="center">Full Stack Developer | Backend Engineer | Cloud & DevOps</h3>
 
-<!-- SOCIAL BADGES -->
 <p align="center">
     <a href="https://www.facebook.com/Retrigadz">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
@@ -17,125 +14,125 @@
     <a href="https://portfoliobboy.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
-</p>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Systems;Architecting+Cloud-Native+Solutions;Crafting+Modern+Web+%26+Mobile+Apps;5%2B+Years+of+Engineering+Excellence" alt="Typing SVG" />
+    <a href="mailto:capstonee2@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
 
-<br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=CharlieJamesGwapo&color=1f6feb&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
-<!-- ABOUT ME SECTION -->
-<img align="right" width="300" src="dev.jpeg" alt="Charlie coding"/>
+---
 
-### &nbsp; About Me
+<img align="right" width="280" src="dev.jpeg" alt="Charlie coding"/>
 
-I'm a **Full Stack Developer** from Cagayan de Oro City, Philippines, with over **5 years of professional experience** delivering production-grade software — from secure RESTful APIs and microservices to full-featured web and mobile applications.
+### About Me
 
-I specialize in designing **high-performance backend architectures** using .NET (C#), Go, Node.js, PHP, and Python, paired with modern frontend frameworks like React, Next.js, Vue, and Angular. I'm well-versed in **cloud infrastructure, CI/CD automation, and containerized deployments**.
+I'm a **Full Stack Developer** based in Cagayan de Oro City, Philippines, with **5+ years** of hands-on experience shipping production software — secure APIs, scalable microservices, and full-featured web & mobile applications.
 
-- Currently a developer at **ROBOUSTECH**
-- Dean's Lister **(Ranked 2)** — BS Information Technology
-- Open to **remote work** and **freelance collaborations**
+My core strength is **backend architecture**: designing systems that are reliable, maintainable, and built to scale. I work across the entire stack — from database design to cloud deployment — and I'm comfortable leading technical decisions end-to-end.
+
+**Currently:** Developer at **ROBOUSTECH**
+**Education:** Dean's Lister **(Rank 2)** — BS Information Technology
+**Status:** Open to **remote work** & **freelance projects**
+
+> *"Code is not just logic — it's the bridge between ideas and reality."*
 
 <br clear="both">
 
 ---
 
-<br>
+### What I Do
 
-<!-- WHAT I DO SECTION -->
-### <p align="center">What I Bring to the Table</p>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="250">
-    <img width="40" src="https://skillicons.dev/icons?i=dotnet" /><br>
-    <b>Backend Engineering</b><br>
-    <sub>REST APIs, microservices, authentication systems, real-time processing</sub>
+<td align="center" width="33%">
+<img width="45" src="https://skillicons.dev/icons?i=dotnet" /><br>
+<b>Backend Engineering</b><br>
+<sub>REST APIs, microservices, auth systems, real-time data processing, message queues</sub>
 </td>
-<td align="center" width="250">
-    <img width="40" src="https://skillicons.dev/icons?i=react" /><br>
-    <b>Frontend Development</b><br>
-    <sub>Responsive SPAs, component libraries, state management, SSR/SSG</sub>
+<td align="center" width="33%">
+<img width="45" src="https://skillicons.dev/icons?i=react" /><br>
+<b>Frontend Development</b><br>
+<sub>Responsive SPAs, component design, state management, SSR/SSG, cross-browser UIs</sub>
 </td>
-<td align="center" width="250">
-    <img width="40" src="https://skillicons.dev/icons?i=docker" /><br>
-    <b>Cloud & DevOps</b><br>
-    <sub>AWS, Docker, CI/CD pipelines, infrastructure automation</sub>
+<td align="center" width="33%">
+<img width="45" src="https://skillicons.dev/icons?i=docker" /><br>
+<b>Cloud & DevOps</b><br>
+<sub>AWS deployment, Docker, CI/CD pipelines, monitoring, infrastructure as code</sub>
 </td>
 </tr>
 </table>
 
-<br>
-
 ---
 
+### Tech Stack
+
+<details>
+<summary><b>Languages</b></summary>
 <br>
-
-<!-- TECH STACK -->
-### <p align="center">Tech Stack</p>
-
-<p align="center"><b>Languages</b></p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,go,php,python,java,kotlin,js,ts&perline=8" />
 </p>
+</details>
 
-<p align="center"><b>Frontend</b></p>
+<details>
+<summary><b>Frontend</b></summary>
+<br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,html,css,tailwind,bootstrap,materialui&perline=10" />
 </p>
+</details>
 
-<p align="center"><b>Backend & Frameworks</b></p>
+<details>
+<summary><b>Backend & Frameworks</b></summary>
+<br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,laravel,symfony,flask,fastapi,django&perline=8" />
 </p>
+</details>
 
-<p align="center"><b>Databases</b></p>
+<details>
+<summary><b>Databases</b></summary>
+<br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,sqlite&perline=6" />
 </p>
+</details>
 
-<p align="center"><b>DevOps & Tools</b></p>
+<details>
+<summary><b>DevOps & Tools</b></summary>
+<br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,git,github,gitlab,bitbucket,jenkins,figma,postman,vscode,androidstudio&perline=7" />
 </p>
-
-<br>
+</details>
 
 ---
 
-<br>
-
-<!-- WORKSPACE SECTION -->
-### <p align="center">Where the Magic Happens</p>
+### Workspace
 
 <p align="center">
-    <img src="im1.jpeg" width="45%" alt="Workspace"/>
+    <img src="im1.jpeg" width="45%" alt="Workspace setup"/>
     &nbsp;&nbsp;
-    <img src="im.jpeg" width="45%" alt="Deep focus"/>
+    <img src="im.jpeg" width="45%" alt="Deep focus coding"/>
 </p>
 
-<p align="center">
-    <sub><i>Late nights, strong coffee, and clean code.</i></sub>
-</p>
-
-<br>
+<p align="center"><sub><i>Late nights, strong coffee, and clean code.</i></sub></p>
 
 ---
 
-<br>
-
-<!-- GITHUB STATS -->
-### <p align="center">GitHub Stats</p>
+### GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats-six-sandy.vercel.app/api?username=CharlieJamesGwapo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="48%" alt="GitHub Stats"/>
+    <picture>
+        <img src="https://github-readme-stats-six-sandy.vercel.app/api?username=CharlieJamesGwapo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github" width="48%" alt="GitHub Stats"/>
+    </picture>
     &nbsp;
-    <img src="https://github-readme-streak-stats-tan-nine.vercel.app/?user=CharlieJamesGwapo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" alt="Streak Stats"/>
+    <picture>
+        <img src="https://github-readme-streak-stats-tan-nine.vercel.app/?user=CharlieJamesGwapo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" alt="Streak Stats"/>
+    </picture>
 </p>
 
 <p align="center">
@@ -148,41 +145,10 @@ I specialize in designing **high-performance backend architectures** using .NET 
 
 <br>
 
-<!-- PROFILE VIEWS & PRIVATE REPOS NOTICE -->
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=CharlieJamesGwapo&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
-<p align="center">
-    <b>* Due to contract restrictions, most repositories are set to private *</b>
-</p>
-
-<br>
+<p align="center"><b>* Due to contract restrictions, most repositories are set to private *</b></p>
 
 ---
 
-<br>
-
-<!-- CONTACT -->
-### <p align="center">Let's Connect</p>
-
 <p align="center">
-    <i>I'm always open to discussing new projects, ideas, or opportunities.</i><br><br>
-    <a href="mailto:capstonee2@gmail.com">
-        <img src="https://img.shields.io/badge/Email_Me-capstonee2%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-</p>
-
-<br>
-
-<!-- QUOTE -->
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</p>
-
-<br>
-
-<!-- FOOTER -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%"/>
+    <i>I'm always open to discussing new projects, ideas, or opportunities — let's build something great together.</i>
 </p>
