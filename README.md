@@ -29,7 +29,7 @@
 
 ### About Me
 
-I'm a **Full Stack Developer** based in Cagayan de Oro City, Philippines, with **5+ years** of hands-on experience shipping production software — secure APIs, scalable microservices, and full-featured web & mobile applications.
+I'm a **Full Stack Developer** based in Cagayan de Oro City, Philippines, with **2+ years** of hands-on experience shipping production software — secure APIs, scalable microservices, and full-featured web & mobile applications.
 
 My core strength is **backend architecture**: designing systems that are reliable, maintainable, and built to scale. I work across the entire stack — from database design to cloud deployment — and I'm comfortable leading technical decisions end-to-end.
 
