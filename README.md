@@ -29,13 +29,13 @@
 
 ### About Me
 
-I'm a **Full Stack Developer** based in Cagayan de Oro City, Philippines, with **2+ years** of hands-on experience shipping production software — secure APIs, scalable microservices, and full-featured web & mobile applications.
+I'm a **Full Stack Developer** based in Cagayan de Oro City, Philippines, with **2 years** of professional experience building production-grade software — from secure REST APIs and scalable microservices to full-featured web and mobile applications.
 
-My core strength is **backend architecture**: designing systems that are reliable, maintainable, and built to scale. I work across the entire stack — from database design to cloud deployment — and I'm comfortable leading technical decisions end-to-end.
+I specialize in **backend architecture**, designing systems that are reliable, maintainable, and built to scale. I work confidently across the entire stack — database design, API development, frontend implementation, and cloud deployment — delivering end-to-end solutions that solve real business problems.
 
-**Currently:** Developer at **ROBOUSTECH**
+**Experience:** 2 Years in Professional Software Development
 **Education:** Dean's Lister **(Rank 2)** — BS Information Technology
-**Status:** Open to **remote work** & **freelance projects**
+**Availability:** Open to **remote opportunities**, **contract work** & **freelance projects**
 
 > *"Code is not just logic — it's the bridge between ideas and reality."*
 
