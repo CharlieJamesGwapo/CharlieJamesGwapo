@@ -15,9 +15,9 @@ If you're learning, building, or operating something — these are my open-sourc
 
 ### 🛠️ Featured Projects
 
-- **[omjibillingsystem](https://github.com/CharlieJamesGwapo/omjibillingsystem)** — Modern web-based internet access & billing system. TypeScript + Node.
 - **[meditrack](https://github.com/CharlieJamesGwapo/meditrack)** — Healthcare tracking system.
 - **[qado-automation](https://github.com/CharlieJamesGwapo/qado-automation)** — End-to-end automation tests for QADO Medisource using Playwright + TypeScript.
+- **[smsotp](https://github.com/CharlieJamesGwapo/smsotp)** — SMS OTP notification system. React + Go.
 
 ### 🧰 Stack
 
