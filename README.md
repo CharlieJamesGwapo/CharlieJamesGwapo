@@ -25,7 +25,6 @@ If you're learning, building, or operating something — these are my open-sourc
 
 ### 📫 Connect
 
-- 💼 ROOCHE DIGITAL · Misamis Oriental, PH
 - ✉️ capstonee2@gmail.com
 
 ---
