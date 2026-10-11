@@ -27,8 +27,9 @@ My work includes projects for Australian clients, local transport and delivery
 services, internet access and billing systems, point-of-sale applications,
 and educational tools.
 
-I focus on clear interfaces, reliable integrations, secure access,
-and software that teams can operate and maintain.
+I work across architecture, data modeling, interfaces, integrations,
+deployment, and maintenance. I focus on clear user journeys, secure access,
+reliable workflows, and software that teams can operate and maintain.
 
 ## What I Build
 
@@ -41,6 +42,10 @@ and software that teams can operate and maintain.
 - **Web and mobile products** — Responsive applications, operational
   dashboards, and real-time experiences with React, Next.js,
   React Native, and Go.
+- **Background processing** — Durable jobs and asynchronous workflows
+  using Python, Celery, Redis, and PostgreSQL.
+- **Deployment and delivery** — Docker-based environments,
+  Linux VPS hosting, and Git-based deployment workflows.
 
 ## Selected Portfolio Work
 
@@ -68,12 +73,31 @@ Explore the case studies and additional projects in my
 
 | Area | Technologies |
 | --- | --- |
-| **Frontend** | TypeScript, JavaScript, React, Next.js, Tailwind CSS, TanStack Query, shadcn/ui |
-| **Backend** | Python, FastAPI, Django, Node.js, Express, Go, Gin, PHP, Laravel |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Tailwind CSS, TanStack Query, Zustand, shadcn/ui |
+| **Backend** | Python, FastAPI, Django, Flask, Node.js, Express, Go, Gin, PHP, Laravel |
 | **Mobile** | React Native, Expo, Android, Firebase |
-| **AI & automation** | OpenAI API, Anthropic API, tool calling, structured output, MCP, n8n |
-| **Data & infrastructure** | PostgreSQL, MySQL, Supabase, Redis, Celery, Docker, Linux |
+| **AI & automation** | OpenAI API, Anthropic API, tool calling, streaming, structured output, MCP, n8n |
+| **Databases & storage** | PostgreSQL, MySQL, Supabase, Redis, Firebase |
+| **DevOps & deployment** | Docker, Linux VPS, Vercel, AWS Lambda |
+| **CI/CD & version control** | Git, GitHub, GitLab CI, Buddy CI/CD, Jenkins |
 | **Integrations & testing** | REST APIs, WebSockets, webhooks, Twilio Voice, GoHighLevel, Playwright |
+| **Background processing** | Celery, durable job queues, bounded retries, idempotency, reconciliation |
+| **Application security** | RBAC, JWT, OTP/2FA, row-level security, audit trails |
+
+## Engineering Practices
+
+- **Product architecture** — Clear API contracts, modular applications,
+  thoughtful data models, and maintainable interfaces.
+- **Deployment and delivery** — Containerized applications,
+  Linux VPS environments, and Git-based deployment workflows.
+- **Reliable integrations** — Durable background jobs, bounded retries,
+  idempotent operations, and data reconciliation.
+- **Application security** — Role-based access, authentication,
+  row-level authorization, and auditable workflows.
+- **Workflow testing** — Playwright end-to-end automation
+  and verification of important user journeys.
+- **Maintainability** — Readable code, reusable components,
+  documented interfaces, and clear failure-recovery paths.
 
 ## Open-Source Curations
 
@@ -90,7 +114,7 @@ I maintain practical resources for developers, students, and operators:
 ## Let's Connect
 
 Open to AI, full-stack, and backend development opportunities,
-as well as product and integration projects.
+as well as mobile applications, automation, and integration projects.
 
 - **Portfolio:** https://portfoliobboy.vercel.app/
 - **LinkedIn:** https://www.linkedin.com/in/charlie-james-abejo-26362638a/
