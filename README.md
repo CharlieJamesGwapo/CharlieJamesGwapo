@@ -136,6 +136,7 @@ My portfolio demonstrates these ideas through expandable case studies, searchabl
 
 | Repository | Focus |
 | --- | --- |
+| **[claude-work-skills](https://github.com/CharlieJamesGwapo/claude-work-skills)** | Open-source Claude Code skills: daily updates, commits, PRs, release notes, bug reports, meeting actions and AI voice agents. |
 | **[meditrack](https://github.com/CharlieJamesGwapo/meditrack)** | Healthcare tracking system. |
 | **[qado-automation](https://github.com/CharlieJamesGwapo/qado-automation)** | End-to-end automation for QADO Medisource using Playwright and TypeScript. |
 | **[smsotp](https://github.com/CharlieJamesGwapo/smsotp)** | SMS OTP notifications with React and Go. |
